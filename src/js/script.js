@@ -1,3 +1,5 @@
+// it's solution from - https://next.plnkr.co/edit/RQqMltJjdOqQuRaetQSE?p=preview&preview
+
 var field = document.getElementById('field');
 var ball = document.getElementById('ball');
 
